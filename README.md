@@ -6,4 +6,4 @@ Features:
 Mailbox
 Subscriber List
 Future Email
-Category based on users
+Category based on userslist.
