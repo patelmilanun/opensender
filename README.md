@@ -7,3 +7,4 @@ Mailbox
 Subscriber List  
 Future Email  
 Category based on userslist.  
+template for email  
